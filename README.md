@@ -12,7 +12,7 @@ Setup:
 
 Ensure you have the required libraries installed:
 
-bash
+In Cmd
 pip install pyautogui pynput
 Running the Program:
 
@@ -20,7 +20,7 @@ Copy the provided script into a .py file (e.g., automation_script.py).
 
 Run the script using Python:
 
-bash
+In Cmd
 python automation_script.py
 Using the Script:
 
