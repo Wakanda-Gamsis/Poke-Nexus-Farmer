@@ -21,7 +21,7 @@ Copy the provided script into a .py file (e.g., automation_script.py).
 Run the script using Python:
 
 In Cmd
-python automation_script.py
+python ScriptName.py
 Using the Script:
 
 Start/Stop WASD Loop: Press the P key to start or stop the WASD loop. The script will print "WASD loop started" or "WASD loop stopped" to indicate the current state.
